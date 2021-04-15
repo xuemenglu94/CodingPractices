@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CodingPractices.Tree
+﻿namespace CodingPractices.Tree
 {
     public partial class TreeNodeUtilities
     {

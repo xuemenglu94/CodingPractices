@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using CodingPractices.String;
+﻿using CodingPractices.String;
 using FluentAssertions;
 using NUnit.Framework;
 

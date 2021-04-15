@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Singleton
+namespace Singleton.Singleton
 {
     public class EqualityComparer : EqualityComparer<President>
     {
