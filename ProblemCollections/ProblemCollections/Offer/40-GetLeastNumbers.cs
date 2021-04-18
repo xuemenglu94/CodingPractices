@@ -2,7 +2,7 @@
 
 namespace ProblemCollections.Offer
 {
-    public class Solution
+    public partial class Solution
     {
         public int[] GetLeastNumbers(int[] arr, int k)
         {
